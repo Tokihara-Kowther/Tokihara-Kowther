@@ -12,7 +12,6 @@
 - Atualmente desenvolvo projetos com `NextJS`, `ReactJS` e `TypeScript`
 
 
-[![](https://visitcount.itsvg.in/api?id=lucianosants&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianosants&color=yellow" alt="Profile views" /> </p>
 

@@ -5,7 +5,7 @@
 
 ## 💫 Sobre mim:
 
-- Olá, sou o `Luciano`, 22 anos e Estudo tecnologias de `frontend`, à procura de resolver problemas através de muito `código` e soluções simples.
+- Olá, sou o `Luciano`, 23 anos e Estudo tecnologias de `frontend`, à procura de resolver problemas através de muito `código` e soluções simples.
 
 - Comecei minha jornada neste mundo da tecnologia desde `Janeiro de 2022`.
 

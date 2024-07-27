@@ -5,11 +5,11 @@
 
 ## 💫 Sobre mim:
 
-- Olá, sou o `Luciano`, 23 anos e Estudo tecnologias de `frontend`, à procura de resolver problemas através de muito `código` e soluções simples.
+- Olá, sou o `Luciano`, 24 anos e Estudo tecnologias de `fullstack`, à procura de resolver problemas através de muito `código` e soluções simples.
 
 - Comecei minha jornada neste mundo da tecnologia desde `Janeiro de 2022`.
 
-- Atualmente desenvolvo projetos com `NextJS`, `ReactJS` e `TypeScript`
+- Atualmente desenvolvo projetos com `NextJS`, `ReactJS`, `TypeScript`, `Node`, e `NestJS`.
 
 
 ## 👥 Entre em contato comigo:
